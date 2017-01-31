@@ -24,11 +24,6 @@ public class Constants {
 	public static final String CSE_BASENAME = "cb-1";
 	public static final String CSE_ID = "/IN_CSE-BASE-1";
 
-	// 로컬 개발용	
-//	public static final String CSE_ADDR = "http://localhost:8080";
-//	public static final String CSE_BASENAME = "herit-cse";
-//	public static final String CSE_ID = "/herit-in";
-
 	public static final String DEVICE_AUTH_KEID = "B9-i1BBRWbnqZUJ0eAndzw";
 	public static final String DEVICE_AUTH_TOKEN = "IFOulS6IeWUUY0L4rKc4iBh2nM2Re3uxrtrY0Z8hwWU";
 	public static final String DEVICE_ENTITY_ID = "C_AE-D-49bed3a113-0078";

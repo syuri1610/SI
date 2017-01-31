@@ -32,7 +32,6 @@ public class CoapAeEmulator {
 			req.setFrom("ae_0001");
 			req.setTo("/~/herit-cse");
 			req.setContentType(CONTENT_TYPE.JSON);
-//			req.setOperation(OPERATION.RETRIEVE);
 			req.setOperation(OPERATION.CREATE);
 			req.setResourceType(RESOURCE_TYPE.AE);
 			

@@ -24,11 +24,6 @@ public class Constants {
 	public static final String CSE_BASENAME = "cb-1";
 	public static final String CSE_ID = "/IN_CSE-BASE-1";
 
-	// herit 개발기
-//	public static final String CSE_ADDR = "http://10.101.101.195:8080";
-//	public static final String CSE_BASENAME = "herit-cse";
-//	public static final String CSE_ID = "/herit-in";
-
 	// 로컬 개발용	
 //	public static final String CSE_ADDR = "http://localhost:8080";
 //	public static final String CSE_BASENAME = "herit-cse";

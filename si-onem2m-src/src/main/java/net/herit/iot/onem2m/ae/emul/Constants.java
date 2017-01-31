@@ -27,7 +27,6 @@ public class Constants {
 	public static final String DEVICE_AUTH_KEID = "B9-i1BBRWbnqZUJ0eAndzw";
 	public static final String DEVICE_AUTH_TOKEN = "IFOulS6IeWUUY0L4rKc4iBh2nM2Re3uxrtrY0Z8hwWU";
 	public static final String DEVICE_ENTITY_ID = "C_AE-D-49bed3a113-0078";
-//	public static final String DEVICE_ENTITY_ID = "C_AE-D-GASLOCK1004";
 	public static final String DEVICE_DEVICE_MODEL = "TEST_DEVICE_MODEL";
 	public static final String DEVICE_NETWORK_INFO = "20";
 

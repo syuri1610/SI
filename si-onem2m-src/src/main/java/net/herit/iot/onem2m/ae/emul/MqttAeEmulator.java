@@ -16,7 +16,6 @@ public class MqttAeEmulator implements ResponseListener {
 	MqttClientHandler mqttClient;
 	
 	String brokerURL = "tcp://iot.eclipse.org:1883";
-//	String brokerURL = "tcp://10.101.107.10:1883";
 	
 	String AE_ID = "/herit1-in/ae_0010";
 	String CSE_ID = "/herit1-in/herit1-cse";
@@ -32,8 +31,6 @@ public class MqttAeEmulator implements ResponseListener {
 			s.sendRequest();
 			
 			Thread.sleep(2000);
-			
-//			s.sendRequest();
 			
 		} catch(Exception e) {
 			e.printStackTrace();

@@ -21,7 +21,6 @@ public class Constants {
 
 	// cns 개발기
 	public static final String CSE_ADDR = "http://106.103.234.117";
-	//public static final String CSE_ADDR = "http://106.103.234.118";
 	public static final String CSE_BASENAME = "cb-1";
 	public static final String CSE_ID = "/IN_CSE-BASE-1";
 

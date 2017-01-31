@@ -21,7 +21,6 @@ public class CoapAeEmulator {
 	public static void main(String args[]) {
 
 		URI uri = null; // URI parameter of the request
-//		String path = "coap://10.101.107.51:5683/herit-in/herit-cse/abc/dad";
 		String path = "coap://10.101.107.10:5683/herit-in/herit-cse";
 		
 		try {

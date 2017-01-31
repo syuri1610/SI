@@ -62,7 +62,6 @@ public class MqttAeEmulator implements ResponseListener {
 		
 		OneM2mRequest req = new OneM2mRequest();
 		req.setRequestIdentifier("req_222224");
-//		req.setFrom("ae_0002");
 		req.setFrom("S");
 		req.setTo("/herit-cse");
 		req.setContentType(CONTENT_TYPE.JSON);
